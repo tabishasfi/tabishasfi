@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** who loves building robust web applications and scalable systems.
 
 ## 🚀 Tech Stack
-- **Languages & Frameworks:** TypeScript, React, Node.js, NestJS
+- **Languages & Frameworks:** TypeScript, React, SQL, Node.js, NestJS
 - **Database:** PostgreSQL
 
 ## 🛠️ What I Do

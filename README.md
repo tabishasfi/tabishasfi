@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Tabish Asfi! 👋
 
-<!--
-**tabishasfi/tabishasfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** who loves building robust web applications and scalable systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages & Frameworks:** TypeScript, React, Node.js, NestJS
+- **Database:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+- Craft modern web apps with React and TypeScript
+- Build powerful backends with Node.js and NestJS
+- Design and manage efficient PostgreSQL databases
+
+## 🎯 About Me
+- Always eager to learn new technologies and take on new challenges
+- Love collaborating on interesting projects and solving real-world problems
+
+## 🏀🎤🏔️ Outside of Code
+- Playing basketball (let's hit the court!)
+- Singing and enjoying music
+- Embracing adventure and exploring the outdoors
+
+---
+
+Feel free to connect, collaborate, or just say hi!
